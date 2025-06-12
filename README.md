@@ -35,7 +35,7 @@ _Stable long-range weather forecasts on the lat-lon grid without spherical harmo
 
 ---
 
-## 🌡️ Seasonal Evolution (Zonal Mean)
+## 🌡️ 500 days Evolution (Zonal Mean)
 
 <p align="center">
   <img src="assets/zonal_mean_Z500_T850.png" width="700">
